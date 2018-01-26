@@ -1,3 +1,4 @@
 # hello-world
-Basic repository creation for practice
+
+Hello person or persons,
 I am a cool guy that is awesome!
